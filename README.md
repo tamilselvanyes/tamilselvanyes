@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on Website Development.
 - 🤔 I’m looking for help with connections to Tech.
 - 💬 Ask me about Web Applications
-- 😄
 - ⚡ Fun fact: On my trip to Goa, I booked a room in a beach resort but slept in the beach as me and my friends couldn't make it to the room.
 <br></br>
 <h3>Things I code ❤❤</h3>
@@ -23,8 +22,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-<br></br>
 
 <h3>👨‍💻 Git Stories </h3>
 <br></br>
