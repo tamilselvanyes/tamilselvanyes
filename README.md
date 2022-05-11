@@ -1,7 +1,7 @@
-### Hi there 👋 I am Tamil Selvan aka Gokul
+### Hi there 👋 I am Tamil Selvan
 
 - 🔭 I’m currently working on Website Development
-- 🌱 I’m currently learning High Level System Design and AWS Application.
+- 🌱 I’m currently learning High Level System Design and AWS Applications.
 - 👯 I’m looking to collaborate on Website Development.
 - 🤔 I’m looking for help with connections to Tech.
 - 💬 Ask me about Web Applications
