@@ -8,7 +8,7 @@
 - 😄
 - ⚡ Fun fact: On my trip to Goa, I booked a room in a beach resort but slept in the beach as me and my friends couldn't make it to the room.
 <br></br>
-Things I code ❤❤
+![Things I code ❤❤]
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -26,8 +26,8 @@ Things I code ❤❤
 
 <br></br>
 
-- 👨‍💻 Git Stories
-  <br></br>
-  ![Tamil Selvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamilselvanyes)
+![👨‍💻 Git Stories]
+<br></br>
+![Tamil Selvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamilselvanyes)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanyes)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanyes)
