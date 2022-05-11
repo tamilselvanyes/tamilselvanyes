@@ -9,5 +9,8 @@
 - ⚡ Fun fact: ...
   <br></br>
 - 👨‍💻 Git Stories
+  <br></br>
+
   ![Tamil Selvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamilselvanyes)
+
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanyes)
