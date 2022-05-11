@@ -10,8 +10,8 @@
   <br></br>
 - 👨‍💻 Git Stories
   <br></br>
-  <div display= "flex">
+  [<div display= "flex">
   ![Tamil Selvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamilselvanyes)
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanyes)
-  </div>
+  </div>]
