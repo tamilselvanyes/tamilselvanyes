@@ -1,4 +1,4 @@
-### Hi there 👋 I am Tamil Selvan
+## Hi there 👋 I am Tamil Selvan
 
 - 🔭 I’m currently working on Website Development
 - 🌱 I’m currently learning High Level System Design and AWS Applications.
@@ -15,7 +15,6 @@
 [<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
-<br />
 <br> <br/>
 
 ## Things I code ❤❤
