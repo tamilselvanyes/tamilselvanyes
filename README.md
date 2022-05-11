@@ -11,8 +11,7 @@
 ### Connect with me:
 
 <div>
-[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/
-simple-iconsav3/icons/mail.svg" />][email]
+[<i class="fa-solid fa-envelope"></i>][email]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/
 simple-iconsav3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/
