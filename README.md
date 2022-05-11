@@ -28,4 +28,6 @@
 
 ![Tamil Selvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamilselvanyes&theme=nightowl)
 
+### :fire: GitHub Streak stats :
+
 ![GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanyes&theme=nightowl)
