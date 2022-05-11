@@ -1,7 +1,5 @@
 ### Hi there 👋 I am Tamil Selvan aka Gokul
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Website Development
 - 🌱 I’m currently learning High Level System Design and AWS Application.
 - 👯 I’m looking to collaborate on Website Development.
