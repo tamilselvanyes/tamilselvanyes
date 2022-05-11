@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Website Development.
 - 🤔 I’m looking for help with connections to Tech.
 - 💬 Ask me about Web Applications
-- ⚡ Fun fact: On my trip to Goa, I booked a room in a beach resort but slept in the beach as me and my friends couldn't make it to the room.
+- ⚡ Fun fact: I watched the whole Peaky Blinders series in just two and half days...
   <br></br>
 
 ## Connect with me:
