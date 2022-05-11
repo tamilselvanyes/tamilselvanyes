@@ -6,7 +6,20 @@
 - 🤔 I’m looking for help with connections to Tech.
 - 💬 Ask me about Web Applications
 - ⚡ Fun fact: On my trip to Goa, I booked a room in a beach resort but slept in the beach as me and my friends couldn't make it to the room.
-<br></br>
+  <br></br>
+
+### Connect with me:
+
+[<img align="left" alt-"email" width="22px" src-"https://cdn.jsdelivr.net/npm/
+simple-iconsav3/icons/email.svg" >][email]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/
+simple-iconsav3/icons/twitter.svg" >][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/
+simple-iconsav3/icons/linkedin.svg" >][1inkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/
+simple-iconsav3/icons/instagram.svg" >][instagram]
+<br>
+
 <h3>Things I code ❤❤</h3>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -23,7 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<h3>👨‍💻 Git Stories </h3>
+<h2>👨‍💻 Github Stories </h2>
 <br></br>
 
 ![Tamil Selvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamilselvanyes&theme=nightowl)
@@ -33,3 +46,8 @@
 ![GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanyes&theme=nightowl)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilselvanyes&theme=nightowl)
+
+[email]: tamilselvanyes@gmail.com
+[twitter]: https://twitter.com/tamilselvanyes1
+[instagram]: https://www.instagram.com/tamilselvan_yes/
+[linkedin]: https://www.linkedin.com/in/tamil-selvan-s/
