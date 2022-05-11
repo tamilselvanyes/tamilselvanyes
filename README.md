@@ -5,5 +5,8 @@
 - 👯 I’m looking to collaborate on Website Development.
 - 🤔 I’m looking for help with connections to Tech.
 - 💬 Ask me about Web Applications
-- 😄 [![Tamil Selvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamilselvanyes)](https://github.com/anuraghazra/github-readme-stats)
+- 😄
 - ⚡ Fun fact: ...
+- 👨‍💻 Git Stories
+  [![Tamil Selvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamilselvanyes)]
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanyes)]
