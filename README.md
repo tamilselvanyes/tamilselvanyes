@@ -10,14 +10,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt-"email" width="22px" src-"https://cdn.jsdelivr.net/npm/
-simple-iconsav3/icons/email.svg" >][email]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/
-simple-iconsav3/icons/twitter.svg" >][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/
-simple-iconsav3/icons/linkedin.svg" >][1inkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/
-simple-iconsav3/icons/instagram.svg" >][instagram]
+<div>
+<img align="left" alt-"email" width="22px" src-"https://cdn.jsdelivr.net/npm/
+simple-iconsav3/icons/email.svg" >[email]
+<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/
+simple-iconsav3/icons/twitter.svg" >[twitter]
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/
+simple-iconsav3/icons/linkedin.svg" >[linkedin]
+<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/
+simple-iconsav3/icons/instagram.svg" >[instagram]
+</div>
 <br>
 
 <h3>Things I code ❤❤</h3>
