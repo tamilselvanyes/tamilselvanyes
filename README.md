@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with connections to Tech.
 - 💬 Ask me about Web Applications
 - 😄
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: In my trip to Goa, I booked a room in a beach resort but slept in the beach as me and my friends couldn't make it to the room.
   <br></br>
 - 👨‍💻 Git Stories
   <br></br>
