@@ -8,7 +8,7 @@
 - ⚡ Fun fact: On my trip to Goa, I booked a room in a beach resort but slept in the beach as me and my friends couldn't make it to the room.
   <br></br>
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
@@ -34,7 +34,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<h2>👨‍💻 Github Stories </h2>
+## 👨‍💻 Github Stories
+
 <br></br>
 
 ![Tamil Selvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamilselvanyes&theme=nightowl)
