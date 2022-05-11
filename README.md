@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on Website Development.
 - 🤔 I’m looking for help with connections to Tech.
 - 💬 Ask me about Web Applications
-- 😄 <img  src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<tamilselvanyes>&theme=<white>" text-align="center" />
+- 😄 [![Tamil Selvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamilselvanyes)](https://github.com/anuraghazra/github-readme-stats)
 - ⚡ Fun fact: ...
