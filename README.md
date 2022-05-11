@@ -32,4 +32,4 @@
 
 ![GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanyes&theme=nightowl)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilselvanyes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilselvanyes&theme=nightowl)]
