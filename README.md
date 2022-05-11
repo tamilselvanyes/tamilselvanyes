@@ -11,18 +11,19 @@
 ### Connect with me:
 
 <div>
-<img align="left" alt-"email" width="22px" src-"https://cdn.jsdelivr.net/npm/
-simple-iconsav3/icons/email.svg" >[email]
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/
-simple-iconsav3/icons/twitter.svg" >[twitter]
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/
-simple-iconsav3/icons/linkedin.svg" >[linkedin]
-<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/
-simple-iconsav3/icons/instagram.svg" >[instagram]
+[<img align="left" alt-"email" width="22px" src-"https://cdn.jsdelivr.net/npm/
+simple-iconsav3/icons/mail.svg" >](mailto:tamilselvanyes@gmail.com)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/
+simple-iconsav3/icons/twitter.svg" >]( https://twitter.com/tamilselvanyes1)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/
+simple-iconsav3/icons/linkedin.svg" >](https://www.instagram.com/tamilselvan_yes/)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/
+simple-iconsav3/icons/instagram.svg" >](https://www.linkedin.com/in/tamil-selvan-s/)
 </div>
 <br>
 
-<h3>Things I code ❤❤</h3>
+## Things I code ❤❤
+
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
