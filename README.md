@@ -11,7 +11,7 @@
 ### Connect with me:
 
 <div>
-[<img align="left" alt-"email" width="22px" src-"https://cdn.jsdelivr.net/npm/
+[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/
 simple-iconsav3/icons/mail.svg" />](mailto:tamilselvanyes@gmail.com)
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/
 simple-iconsav3/icons/twitter.svg" />]( https://twitter.com/tamilselvanyes1)
