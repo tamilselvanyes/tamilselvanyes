@@ -10,15 +10,8 @@
 
 ### Connect with me:
 
-<div>
-[<i class="fa-solid fa-envelope"></i>][email]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/
-simple-iconsav3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/
-simple-iconsav3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/
-simple-iconsav3/icons/instagram.svg" />][instagram]
-</div>
+![LinkedIn](https://cdn.jsdelivr.net/npm/simple-iconsav3/icons/linkedin.svg)
+
 <br>
 
 ## Things I code ❤❤
