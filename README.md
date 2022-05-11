@@ -45,7 +45,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilselvanyes&theme=nightowl)
 
-[email]: tamilselvanyes@gmail.com
+[email]: mailto:tamilselvanyes@gmail.com
 [twitter]: https://twitter.com/tamilselvanyes1
 [instagram]: https://www.instagram.com/tamilselvan_yes/
 [linkedin]: https://www.linkedin.com/in/tamil-selvan-s/
