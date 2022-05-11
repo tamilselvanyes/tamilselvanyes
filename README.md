@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Website Development.
 - 🤔 I’m looking for help with connections to Tech.
 - 💬 Ask me about Web Applications
-- ⚡ Fun fact: I watched the whole Peaky Blinders series in just two and half days...
+- ⚡ Fun fact: I have watched the whole Peaky Blinders series in just two and half days...
   <br></br>
 
 ## Connect with me:
