@@ -40,13 +40,13 @@
 
 <br></br>
 
-![Tamil Selvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamilselvanyes&theme=nightowl)
+![Tamil Selvan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tamilselvanyes&theme=nightowl)
 
 ### :fire: GitHub Streak stats :
 
 ![GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanyes&theme=nightowl)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilselvanyes&theme=nightowl)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tamilselvanyes&theme=nightowl)
 
 [email]: mailto:tamilselvanyes@gmail.com
 [twitter]: https://twitter.com/tamilselvanyes1
